@@ -4,7 +4,7 @@
 
 ## 🚀 Technical Toolkit 
 
->Here's a snapshot of the tools and technologies I've mastered over the years:
+>Here's a snapshot of the tools and technologies:
 
 >- **Programming Languages:** Python, R, SQL
 >- **Data Science Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch
