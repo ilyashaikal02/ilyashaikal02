@@ -6,7 +6,7 @@
 
 >Here's a snapshot of the tools and technologies:
 
->- **Programming Languages:** Python, R, SQL
+>- **Programming Languages:** Python, R, Java, SQL
 >- **Data Science Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch
 >- **Data Visualization Tools:** Matplotlib, Seaborn, Plotly, Tableau, Power BI, Data Studio
 >- **Data Analysis Techniques:** Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering, Data Modeling, Statistical Analysis
